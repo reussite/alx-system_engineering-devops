@@ -1,5 +1,5 @@
 ##0x01 shell Permissions
 [0-iam-betty](./0-iam_betty) Create a script that switches the current user to the user betty  
 [1-who-am-i](./1-who_am_i) this script print the effective username of the current user.  
-[2-goups](2-groups]) create a script that prints all the groups the current user is part of.
-
+[2-goups](2-groups]) create a script that prints all the groups the current user is part of.  
+[3-new_owner](3-new_owner) script that changes the owner of the file hello to the user betty  
