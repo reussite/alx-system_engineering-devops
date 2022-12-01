@@ -10,4 +10,5 @@
 [8-James-Bond](./8-james-bong) script that sets the permission to the file hello as follows:  
 [9-John Doe](./9-john-Doe)  script that sets the mode of the file hello to this  
 [10-mirror-permissions](./10-mirror_permissions) cript that sets the mode of the file hello the same as olleh’s mode.  
+[11-directories-permissions](11-directories_permissions) Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.  
 
